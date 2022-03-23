@@ -1,0 +1,20 @@
+{
+    "name": "tappii/tappii-connect-api-sdk-php-example",
+    "autoload": {
+        "psr-4": {
+            "Tappii\\TappiiConnectApiSdkPhpExample\\": "src/"
+        }
+    },
+    "authors": [
+    ],
+    "require": {
+        "php": "^8.1",
+        "tappii/tappii-connect-api-sdk-php": "^0.0.1"
+    },
+    "repositories": {
+        "tappii": {
+            "type": "vcs",
+            "url": "https://github.com/tappii/tappii-connect-api-sdk-php"
+        }
+    }
+}
